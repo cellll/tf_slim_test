@@ -1,3 +1,2 @@
-# tf_slim_test
+TF Slim test
 
-어렵네ㅡㅡ 
